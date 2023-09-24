@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T13:40:43.859Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="pqxN4Mtd0yYoMXYT0XAg" version="21.8.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-24T13:41:10.408Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="BQvtYZWoLvxWCZaG2Z-R" version="21.8.1" type="github" pages="2">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="842" dy="-52" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" background="none" math="0" shadow="0">
       <root>
@@ -322,7 +322,7 @@
           <mxGeometry y="120" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IZGYMMbN7DjfyKtoJZzh-55" value="Bartek" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" width="140" height="120" as="geometry" />
+          <mxGeometry x="240" y="10" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="B8zrpUNiS1hHRvb6TwSd-13" value="BazaDanychPrzykładowa" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IZGYMMbN7DjfyKtoJZzh-55">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
